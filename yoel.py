@@ -26,13 +26,15 @@ with col2:
 with col3:
       st.info('PENGALAMAN KERJA')
       st.write('• Pernah Bekerja Dibagian Rekam Medis.\n\n• Pernah Bekerja Dianalisi Data Kesehatan.')
-st.header(":mailbox: Masukan saran!")
-
-contact_form = """
-<form action="https://formsubmit.co/yoel.pramuditya@gmail.com" method="POST">
-     <input type="text" name="name" required>
-     <input type="email" name="email" required>
-     <button type="submit">Kirim</button>
-</form>
-st.markdown(contact_form, unsafe_allow_html=True)
-
+st.info('kenali lebih jauh')
+col1, col2, col3 = st.columns(3)
+with col1:
+      st.info('TENTANG SAYA')
+      st.write('saya adalah seorang yang bergerak dibidang analisi data kesehatan dimana saya mempelajari semua yang berkaitan dengan data kesehatan.')
+with col2:
+      st.info('KONTAK PERSON')
+      st.write(':phone: call center [whatshap](https://wa.me/6283182905546)')
+      st.write(':coffee: social media [instagram](https://intagram.com/pramuditya.yoel)')
+with col3:
+      st.info('SARAN DAN MASUKAN')
+      st.write(':mailbox: masukan dan saran [Disini](https://forms.gle/8AE7shhhMDdEh1iH9)')
