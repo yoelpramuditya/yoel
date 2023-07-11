@@ -9,7 +9,7 @@ with col3:
       st.write('')
 st.image('foto/9.jpg', width=200)
 st.title('**TENTANG SAYA**')
-st.info('**NAMA* : YOEL PRAMUDITYA')
+st.info('**NAMA** : YOEL PRAMUDITYA')
 st.info('**TTL** : JAKARTA,21 JUNI 2003')
 st.info('**AGAMA** : KRISTEN')
 st.info('**JENIS KELAMIN** : LAKI-LAKI')
