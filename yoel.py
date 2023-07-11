@@ -34,7 +34,7 @@ with col1:
 with col2:
       st.info('KONTAK PERSON')
       st.write(':phone: call center [whatshap](https://wa.me/6283182905546)')
-      st.write(':coffee: social media [instagram](https://intagram.com/pramuditya.yoel)')
+      st.write(':coffee: social media [instagram](https://instagram.com/pramuditya.yoel)')
 with col3:
       st.info('SARAN DAN MASUKAN')
       st.write(':mailbox: masukan dan saran [Disini](https://forms.gle/8AE7shhhMDdEh1iH9)')
