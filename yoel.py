@@ -26,7 +26,7 @@ with col2:
 with col3:
       st.info('**PENGALAMAN KERJA**')
       st.write('• Pernah Bekerja Dibagian Rekam Medis.\n\n• Pernah Bekerja Dianalisi Data Kesehatan.')
-st.info('**KENALI LEBIH JAUH**')
+st.title('**KENALI LEBIH JAUH**')
 col1, col2, col3 = st.columns(3)
 with col1:
       st.info('**TENTANG SAYA**')
