@@ -4,7 +4,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
       st.write('')
 with col2:
-      st.title('WELCOME TO MY BIO')
+      st.subheader('WELCOME TO MY BIO')
 with col3:
       st.write('')
 st.image('foto/9.jpg', width=200)
