@@ -18,11 +18,11 @@ st.info('PEKERJAAN : MAHASISWA')
 col1, col2, col3 = st.columns(3)
 with col1:
       st.info('KEMAMPUAN')
-      st.write('Mampu Menganalisis Data Kesehatan.\n\nMampu Mengcoding Diagnosa Penyakit.\n\nMampu Membuat Laporan Rekan Medis')
+      st.write('• Mampu Menganalisis Data Kesehatan.\n\n• Mampu Mengcoding Diagnosa Penyakit.\n\n• Mampu Membuat Laporan Rekan Medis')
 with col2:
       st.info('RIWAYAT PENDIDIKAN')
-      st.write('SDN PETOJO UTARA 01 PAGI.\n\nSMPN 31 SEMARANG.\n\nSMKN 3 SEMARANG')
+      st.write('• SDN PETOJO UTARA 01 PAGI.\n\n• SMPN 31 SEMARANG.\n\n• SMKN 3 SEMARANG')
 with col3:
       st.info('PENGALAMAN')
-      st.write('pernah bekerja dibagian rekam medis.\n\npernah bekerja di analisi data kesehatan')
+      st.write('• Pernah Bekerja Dibagian Rekam Medis.\n\n• Pernah Bekerja Dianalisi Data Kesehatan')
 
