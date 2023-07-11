@@ -15,6 +15,6 @@ st.info('AGAMA : KRISTEN')
 st.info('JENIS KELAMIN : LAKI-LAKI')
 st.info('PEKERJAAN : MAHASISWA')
 
-st.title('
+st.title('')
 
 
