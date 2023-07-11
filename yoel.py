@@ -9,12 +9,12 @@ with col3:
       st.write('')
 st.image('foto/9.jpg', width=200)
 st.title('TENTANG SAYA')
-st.info('NAMA : YOEL PRAMUDITYA')
-st.info('TTL : JAKARTA,21 JUNI 2003')
-st.info('AGAMA : KRISTEN')
-st.info('JENIS KELAMIN : LAKI-LAKI')
-st.info('PEKERJAAN : MAHASISWA')
-st.info('HOBI : \n\n• OLAHRAGA\n\n• MEMBACA BUKU\n\n• BERNYANYI')
+st.info('**NAMA** : YOEL PRAMUDITYA')
+st.info('**TTL** : JAKARTA,21 JUNI 2003')
+st.info('**AGAMA** : KRISTEN')
+st.info('**JENIS KELAMIN** : LAKI-LAKI')
+st.info('**PEKERJAAN **: MAHASISWA')
+st.info('**HOBI** : \n\n• OLAHRAGA\n\n• MEMBACA BUKU\n\n• BERNYANYI')
 
 col1, col2, col3 = st.columns(3)
 with col1:
