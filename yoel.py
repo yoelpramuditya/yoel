@@ -26,4 +26,13 @@ with col2:
 with col3:
       st.info('PENGALAMAN KERJA')
       st.write('• Pernah Bekerja Dibagian Rekam Medis.\n\n• Pernah Bekerja Dianalisi Data Kesehatan.')
+st.header(":mailbox: Masukan saran!")
+
+contact_form = """
+<form action="https://formsubmit.co/yoel.pramuditya@gmail.com" method="POST">
+     <input type="text" name="name" required>
+     <input type="email" name="email" required>
+     <button type="submit">Kirim</button>
+</form>
+st.markdown(contact_form, unsafe_allow_html=True)
 
