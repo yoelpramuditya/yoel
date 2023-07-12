@@ -25,7 +25,7 @@ with col2:
       st.write('• SDN PETOJO UTARA 01 PAGI.\n\n• SMPN 31 SEMARANG.\n\n• SMKN 3 SEMARANG')
 with col3:
       st.info('**PENGALAMAN KERJA**')
-      st.write('• Pernah Bekerja Dibagian Rekam Medis.\n\n• Pernah Bekerja Dianalisi Data Kesehatan.')
+      st.write('• 2017-2018 Pernah Bekerja Dibagian Rekam Medis.\n\n• 2019-2020 Pernah Bekerja Dianalisi Data Kesehatan.')
 st.subheader('**KENALI LEBIH JAUH**')
 col1, col2, col3 = st.columns(3)
 with col1:
