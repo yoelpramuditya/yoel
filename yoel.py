@@ -33,7 +33,7 @@ with col1:
       st.write('saya adalah seorang yang bergerak dibidang analisi data kesehatan dimana saya mempelajari semua yang berkaitan dengan data kesehatan.')
 with col2:
       st.info('**KONTAK PERSON**')
-      st.write(':phone: call center [whatshap](https://wa.me/6283182905546)')
+      st.write(':Telepohon receiver: call center [whatshap](https://wa.me/6283182905546)')
       st.write(':coffee: social media [instagram](https://instagram.com/pramuditya.yoel)')
 with col3:
       st.info('**SARAN DAN MASUKAN**')
